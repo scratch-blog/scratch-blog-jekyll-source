@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Scratch Blog!"
-date:   2015-06-13 14:33:19
+date:   2015-06-20 09:33:19
 categories: introduction update
 ---
 My name is Austin. I'm a late 20s dad in the midwest, and for years cooking has been a passion of mine. I've always liked to think that I cook from scratch and make food from raw ingredients, but what does it really mean to cook from scratch?

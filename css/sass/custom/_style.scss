@@ -15,7 +15,6 @@ Contents
 
 */
 
-
 // 1. Shared Styles
 // --------------------------------------------------
 
@@ -56,7 +55,7 @@ main.container, main.content > .container{
             color: $grayDark;
             text-decoration:none;
             @include opacity(50);
-        }    
+        }
 }
 
 // 2. Header Section
@@ -66,14 +65,14 @@ main.container, main.content > .container{
     background-color: $white;
 
     & > .container{
-       min-height: 58em;  
+       min-height: 58em;
     }
 }
 
 .content h1{
     font-family: Georgia, "Times New Roman", Times, serif;
      @extend .center-txt;
-    font-size: 6em;  
+    font-size: 6em;
     margin-top: 1em;
     border-bottom: 1px solid $grayDarker;
     padding-bottom: 0.6em;
@@ -82,7 +81,7 @@ main.container, main.content > .container{
 
 .top-strip{
     background-color: $black;
-    height: 1em;    
+    height: 1em;
 }
 
 
@@ -130,7 +129,7 @@ main.container, main.content > .container{
 
 .pages{
      @extend .center-txt;
-    list-style: none;    
+    list-style: none;
 }
 
 .next{
@@ -139,7 +138,7 @@ main.container, main.content > .container{
 }
 
 .prev{
-    float: left;   
+    float: left;
 }
 
 #post-pagination{
@@ -153,16 +152,16 @@ main.container, main.content > .container{
 .home-icon{
      @extend .center-txt;
      font-size: 2.5em;
-     margin: 1.5em 0 -1.1em;
+     margin: 1.5em 0 0em;
      a{
-        @extend .a-hover; 
-     } 
+        @extend .a-hover;
+     }
 }
 
 .post{
     h5{
          @extend .center-txt;
-        margin:5em 0 -6em 0;
+        margin:5em 0 -6.8em 0;
         font-family: 'Noto Serif';
         text-transform: uppercase;
         font-weight: normal;
@@ -172,8 +171,8 @@ main.container, main.content > .container{
     h2{
         font-family: Georgia, 'Times New Roman', Times, serif;
         @extend .center-txt;
-        font-size: 5em;
-        padding: 1.5em 0 0.5em;
+        font-size: 3em;
+        padding: 0.5em 0 0.5em;
         letter-spacing: 0.05em;
     }
 
@@ -195,5 +194,5 @@ footer .container{
     a{
         color: $white;
         text-decoration: underline;
-    }    
+    }
 }
