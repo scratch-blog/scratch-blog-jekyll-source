@@ -8,6 +8,8 @@ When I was a grad student on a tight budget, I found that homemade pizza was a c
 
 This is a recipe I spent a long time refining. I went through a lot of iterations, trying different crust recipes and tweaking them until I found something that consistently turns out well.
 
+Over the coming months, I will be adapting this recipe into something I can make from the rawest ingredients I can get my hands on. Once I've covered all of the individual ingredients I'll post an updated version of the recipe.
+
 ----
 
 Time
